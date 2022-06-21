@@ -14,7 +14,7 @@ Desafio de Projeto da DIO
 
 Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha carreira, incluir  as atividades da Digital Innovation One.
 
-
+#### DDesenvolvendo uma Progressiva Web Application com React para mapearomapear os dados do COVID19 pelo mundo. 
   
 
 
